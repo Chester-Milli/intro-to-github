@@ -1,1 +1,2 @@
-# intro to github
+# Intro to github
+## updated git adding new details
